@@ -63,7 +63,7 @@ python planet_game.py
 | Ramming a cannon | Destroys it (+20) but costs 1 health |
 | Touching the planet | Instant loss |
 
-You start with 5 health. Shooting an enemy bullet knocks it back and slows that cannon down. As your score grows, you can have more of your own bullets on screen at once. After 500 points, some meteors begin homing in on your UFO.
+You start with 5 health. Shooting an enemy bullet destroys that bullet. As your score grows, you can have more of your own bullets on screen at once. After 500 points, some meteors begin homing in on your UFO.
 
 ## Project Structure
 
@@ -81,6 +81,7 @@ planet-game/
 ├── docs/
 │   └── screenshot.png
 └── README.md
+└── LICENSE
 ```
 
 ## How It Works
