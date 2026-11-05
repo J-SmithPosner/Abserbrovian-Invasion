@@ -1,5 +1,5 @@
 # Abserbrovian Invasion - Video Game
-Avoid asteroids and destroy aliens in this fact-paced arcade game built with the Python and Pygame. You pilot a UFO with your mouse, dodge incoming meteors and enemy cannon fire, and try to destroy a planet before it destroys you.
+Avoid asteroids and destroy aliens in this fast-paced arcade game built with the Python and Pygame. You pilot a UFO with your mouse, dodge incoming meteors and enemy cannon fire, and try to destroy a planet before it destroys you.
 
 <p align="center">
   <img src="docs/Gameplay-Screenshot.png" alt="Gameplay screenshot" width="400">
