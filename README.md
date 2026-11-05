@@ -33,7 +33,7 @@ This was an early personal project that I built in early 2024 to strengthen my u
 ### Installation
 
 ```bash
-git clone https://github.com/J-SmithPosner/planet-game.git
+git clone https://github.com/J-SmithPosner/Abserbrovian-Invasion.git
 cd planet-game
 pip install pygame
 ```
